@@ -1,1 +1,4 @@
 .DS_Store
+draft.sql
+.idea
+venv
